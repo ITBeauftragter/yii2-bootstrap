@@ -1,10 +1,10 @@
 <?php
-namespace yidas\yii\bootstrap;
+namespace itbeauftragter\yii\bootstrap;
 /**
  * Bootstrap Dependent Source Asset 
  *
- * @author  Nick Tsai <myintaer@gmail.com>
- * @version 4.0.0
+ * @author  Daniel Lucas <daniel.lucas@neusser-schuetzenlust.de>
+ * @version 5.1.1
  * @package twbs/bootstrap
  * @see     https://github.com/twbs/bootstrap
  */
@@ -26,7 +26,7 @@ class BootstrapAsset extends \yii\web\AssetBundle
     /**
      * @var string CDN version for CDN mode, eg. `'4.1.3'`
      */
-    public $cdnVersion = '4.1.3';
+    public $cdnVersion = '5.1.1';
     
     /**
      * @var bool Enable or disable CDN mode
