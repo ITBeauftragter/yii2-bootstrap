@@ -32,7 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yidas\\yii\\bootstrap\\": "src"
+      "itbeauftragter\\yii\\bootstrap\\": "src"
     }
   }
 }
