@@ -11,13 +11,13 @@
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/yidas/yii2-bootstrap/issues",
-    "source": "https://github.com/yidas/yii2-bootstrap"
+    "issues": "https://github.com/itbeauftragter/yii2-bootstrap/issues",
+    "source": "https://github.com/itbeauftragter/yii2-bootstrap"
   },
   "authors": [
     {
-      "name": "Nick Tsai, Daniel Lucas",
-      "email": "myintaer@gmail.com, daniel.lucas@neusser-schuetzenlust.de",
+      "name": "Daniel Lucas",
+      "email": "daniel.lucas@neusser-schuetzenlust.de",
       "homepage": "https://github.com/itbeauftragter/"
     }
   ],
